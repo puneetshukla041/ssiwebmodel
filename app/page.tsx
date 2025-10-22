@@ -33,6 +33,8 @@ export default function HomePage() {
         className="mt-8 px-6 py-3 bg-gradient-to-r from-indigo-600 to-purple-600 text-white rounded-lg text-lg font-medium hover:scale-105 transition-transform duration-300"
       >
         📱 Experience in Your Room
+        View in your room 
+        
       </a>
     </main>
   )
